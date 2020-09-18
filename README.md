@@ -15,10 +15,9 @@ LiveGrabber: https://showsync.info/tools/livegrabber/
 
 "
 
-To install the OSC-UE$ plugin, this video provides a tutorial: https://www.youtube.com/watch?v=GGGs-n-CKtY
+To install the OSC-UE4 plugin, this video provides a tutorial: https://www.youtube.com/watch?v=GGGs-n-CKtY
 
 the video is split into these parts: 
-Split into these parts:
 
 1. Introduction
 2. Install and Compile the plugin (or any plugin)
