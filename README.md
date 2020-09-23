@@ -28,3 +28,9 @@ Checkout TouchOSC for IOS or Android at www.hexler.net
 
 To compile the plugin, you will need Visual Studio https://visualstudio.microsoft.com/ or xcode https://developer.apple.com/xcode/
 
+# Max
+
+Node for Max
+
+https://github.com/Hsien-HsiuLiao/n4m-examples
+
