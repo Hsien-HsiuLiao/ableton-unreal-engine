@@ -1,6 +1,6 @@
 # ableton-unreal-engine
 
-goal: to be able to use ableton to trigger visuals in unreal engine, such as in this video https://www.youtube.com/watch?v=y6O07PWRYcU
+Goal: to be able to use Ableton Live to trigger visuals in Unreal Engine, such as in this video https://www.youtube.com/watch?v=y6O07PWRYcU
 
 Instructions: 
 
